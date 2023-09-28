@@ -1,0 +1,16 @@
+C:\Users\busen\source\repos\karar25\karar25\bin\Debug\net6.0-windows\karar25.exe
+C:\Users\busen\source\repos\karar25\karar25\bin\Debug\net6.0-windows\karar25.deps.json
+C:\Users\busen\source\repos\karar25\karar25\bin\Debug\net6.0-windows\karar25.runtimeconfig.json
+C:\Users\busen\source\repos\karar25\karar25\bin\Debug\net6.0-windows\karar25.dll
+C:\Users\busen\source\repos\karar25\karar25\bin\Debug\net6.0-windows\karar25.pdb
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.Form1.resources
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.csproj.GenerateResource.cache
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.AssemblyInfoInputs.cache
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.AssemblyInfo.cs
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.csproj.CoreCompileInputs.cache
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.dll
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\refint\karar25.dll
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.pdb
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\karar25.genruntimeconfig.cache
+C:\Users\busen\source\repos\karar25\karar25\obj\Debug\net6.0-windows\ref\karar25.dll
